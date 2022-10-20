@@ -9,7 +9,7 @@ Skills: HTML5 / CSS / JS / Django Framework / Flask Framework / SQL / Bootstrap 
 - 📫 How to reach me: Riyad.Bustami@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RiyadBustami)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/riyadbustami//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RiyadBustami)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/riyadbustami/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RiyadBustami)](https://github.com/anuraghazra/github-readme-stats)
 
