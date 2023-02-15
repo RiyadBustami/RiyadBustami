@@ -4,8 +4,7 @@ A computer science department graduate, didn't get the chance of working in the 
 
 Skills: HTML5 / CSS / JS / Django Framework / Flask Framework / SQL / Spring Boot / Bootstrap / C++ / NodeJS / ReactJS / MongoDB / ExpressJS /
 
-- 🔭 I’m currently working Open to work
-- 🌱 I’m currently learning JAVA, MERN 
+- 🔭 I’m currently open to work
 - 📫 How to reach me: Riyad.Bustami@gmail.com 
 
 
