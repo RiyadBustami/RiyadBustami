@@ -1,10 +1,10 @@
 ### Hi there 👋, my name is Riyad
 #### I am a Full-Stack Web Developer from Nablus/Palestine I'm currently open for a job 
-A computer science department graduate, didn't get the chance of working in the field. Decided to get back on the track, so I joined Axsos Academy's Full-Stack Web Development bootcamp. The bootcamp's plan includes HTML5, CSS, JavaScript, Python, Django, JAVA and MERN stack.
+A computer science department graduate, didn't get the chance of working in the field since I was dedicated to the family business. Decided to get back on the track, so I joined Axsos Academy's Full-Stack Web Development bootcamp. The bootcamp's plan includes HTML5, CSS, JavaScript, Python, Django, JAVA and MERN stack.
 
-Skills: HTML5 / CSS / JS / Django Framework / Flask Framework / SQL / Bootstrap / C++ / 
+Skills: HTML5 / CSS / JS / Django Framework / Flask Framework / SQL / Spring Boot / Bootstrap / C++ / NodeJS / ReactJS / MongoDB / ExpressJS /
 
-- 🔭 I’m currently working on Carchive project 
+- 🔭 I’m currently working Open to work
 - 🌱 I’m currently learning JAVA, MERN 
 - 📫 How to reach me: Riyad.Bustami@gmail.com 
 
