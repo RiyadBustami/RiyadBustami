@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Riyad
-#### I am a Full-Stack Web Developer from Nablus/Palestine I'm currently open for a job 
-A computer science department graduate, didn't get the chance of working in the field since I was dedicated to the family business. Decided to get back on the track, so I joined Axsos Academy's Full-Stack Web Development bootcamp. The bootcamp's plan includes HTML5, CSS, JavaScript, Python, Django, JAVA and MERN stack.
+#### I am a Back-End Software Engineer @ Bisan Systems, I'm from Nablus/Palestine
+A computer science department graduate, didn't get the chance of working in the field since I was dedicated to the family business. Decided to get back on the track, so I joined Axsos Academy's Full-Stack Web Development bootcamp. The bootcamp's plan includes HTML5, CSS, JavaScript, Python, Django, JAVA and MERN stack, then I got the chance to get back into the software development track @ Bisan Systems.
 
 Skills: HTML5 / CSS / JS / Django Framework / Flask Framework / SQL / Spring Boot / Bootstrap / C++ / NodeJS / ReactJS / MongoDB / ExpressJS /
 
