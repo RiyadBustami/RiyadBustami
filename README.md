@@ -4,7 +4,7 @@ A computer science department graduate, didn't get the chance of working in the 
 
 Skills: HTML5 / CSS / JS / Django Framework / Flask Framework / SQL / Spring Boot / Bootstrap / C++ / NodeJS / ReactJS / MongoDB / ExpressJS /
 
-- 🔭 I’m currently open to work
+- 🔭 I currently work @ Bisan Systems ltd. as a Back-End Software Engineer
 - 📫 How to reach me: Riyad.Bustami@gmail.com 
 
 
